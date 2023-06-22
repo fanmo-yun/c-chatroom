@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.out.dir/main.c.o -o main.out  -lcurses -lform 

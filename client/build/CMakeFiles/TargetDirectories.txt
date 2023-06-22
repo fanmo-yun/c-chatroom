@@ -1,0 +1,3 @@
+/home/fanmoyun/Documents/c-chat-room/client/build/CMakeFiles/main.out.dir
+/home/fanmoyun/Documents/c-chat-room/client/build/CMakeFiles/edit_cache.dir
+/home/fanmoyun/Documents/c-chat-room/client/build/CMakeFiles/rebuild_cache.dir
